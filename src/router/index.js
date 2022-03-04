@@ -61,7 +61,6 @@ export const asyncRouterMapAdmin = [
         ]
     },
     {   
-        light，
         path: '*',
         component: resolve => require(['../components/common/404.vue'], resolve),
     }
