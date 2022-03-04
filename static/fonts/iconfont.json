@@ -1,0 +1,79 @@
+{
+  "id": "2436326",
+  "name": "龙子湖小程序不带数字",
+  "font_family": "font_family",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "20702939",
+      "name": "zidian",
+      "font_class": "zidian",
+      "unicode": "e6a3",
+      "unicode_decimal": 59043
+    },
+    {
+      "icon_id": "20610136",
+      "name": "jinrong",
+      "font_class": "jinrong",
+      "unicode": "e6a2",
+      "unicode_decimal": 59042
+    },
+    {
+      "icon_id": "20534913",
+      "name": "xinxi",
+      "font_class": "xinxi",
+      "unicode": "e69a",
+      "unicode_decimal": 59034
+    },
+    {
+      "icon_id": "20534914",
+      "name": "zufang",
+      "font_class": "zufang",
+      "unicode": "e69b",
+      "unicode_decimal": 59035
+    },
+    {
+      "icon_id": "20534915",
+      "name": "longzi",
+      "font_class": "longzi",
+      "unicode": "e69c",
+      "unicode_decimal": 59036
+    },
+    {
+      "icon_id": "20534916",
+      "name": "louyu",
+      "font_class": "louyu",
+      "unicode": "e69d",
+      "unicode_decimal": 59037
+    },
+    {
+      "icon_id": "20534917",
+      "name": "zhengce",
+      "font_class": "zhengce",
+      "unicode": "e69e",
+      "unicode_decimal": 59038
+    },
+    {
+      "icon_id": "20534918",
+      "name": "xitong",
+      "font_class": "xitong",
+      "unicode": "e69f",
+      "unicode_decimal": 59039
+    },
+    {
+      "icon_id": "20534919",
+      "name": "zhongyuan",
+      "font_class": "zhongyuan",
+      "unicode": "e6a0",
+      "unicode_decimal": 59040
+    },
+    {
+      "icon_id": "20534920",
+      "name": "wenti",
+      "font_class": "wenti",
+      "unicode": "e6a1",
+      "unicode_decimal": 59041
+    }
+  ]
+}

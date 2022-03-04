@@ -1,0 +1,43 @@
+{
+    "code": 0,
+    "msg": "",
+    "data": {
+        "menu": [
+            {
+                "meta": {
+                    "icon": "font_family icon-rizhi",
+                    "title": "通用表单"
+                },
+                "index": "4",
+                "path": "/fzzlgl",
+                "children":[]
+            },
+            {
+                "meta": {
+                    "icon": "font_family icon-set",
+                    "title": "系统设置"
+                },
+                "index": "7",
+                "path": "",
+                "children":[
+                    {
+                        "index": "account",
+                        "path": "/account",
+                        "meta": {
+                            "icon": "",
+                            "title": "账号管理"
+                        }
+                    },
+                    {
+                        "index": "role",
+                        "path": "/role",
+                        "meta": {
+                            "icon": "",
+                            "title": "角色管理"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}
